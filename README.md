@@ -1,4 +1,4 @@
-# First-Module-Challenge
+# Horiseon-SMMA
 
 ## Description
 This first challenged revolved around improving the accessibility of an existing website. We were hired by Horiseon to improve their website's accesibility with the end goal being to make the website more user-friendly for people with disabilities. When I vied the source code I quickly realised and help them get thier code to be better optimized.
