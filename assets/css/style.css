@@ -31,7 +31,7 @@ header div {
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-/* not exactly sure what this list style type none do but unsure to remove it */
+
 header div ul {
     list-style-type: none;
 }
